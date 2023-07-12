@@ -1,2 +1,2 @@
 # jsclient
-Bibliothèque cliente pour javascript
+Bibliothèque cliente Gallium+ pour javascript
